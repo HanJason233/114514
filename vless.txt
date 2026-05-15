@@ -1,0 +1,2 @@
+vless://fb5aab48-3f57-4728-a86f-fef16fb0e8d0@103.157.42.20:808?encryption=none&security=tls&sni=cdn-exp-sg-recommend.pt.xiaomi.com&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=xhttp&host=cdn-exp-sg-recommend.pt.xiaomi.com&path=%2Fqawf41&mode=auto#%E4%B8%AD%E8%BD%AC%E8%8A%82%E7%82%B9
+vless://fb5aab48-3f57-4728-a86f-fef16fb0e8d0@103.157.42.20:808?encryption=none&security=tls&sni=cdn-exp-sg-recommend.pt.xiaomi.com&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=xhttp&host=cdn-exp-sg-recommend.pt.xiaomi.com&path=%2Fqawf41&mode=auto#%E4%B8%AD%E8%BD%AC%E8%8A%82%E7%82%B9
