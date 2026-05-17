@@ -1,3 +1,3 @@
 trojan://99b3111e291ec3c9cd558499e88c7524@13.231.190.251:6737?security=tls&type=tcp&headerType=none&allowInsecure=1#%E6%97%A5%E6%9C%AC%20-%202251
+trojan://99b3111e291ec3c9cd558499e88c7524@13.230.115.49:44774?security=tls&type=tcp&headerType=none&allowInsecure=1#%E6%B3%95%E5%9B%BD%20-%201049
 trojan://99b3111e291ec3c9cd558499e88c7524@43.199.143.144:44079?security=tls&type=tcp&headerType=none&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%201144
-trojan://99b3111e291ec3c9cd558499e88c7524@95.40.10.254:27321?security=tls&type=tcp&headerType=none&allowInsecure=1#%E7%BE%8E%E5%9B%BD%20-%202254
