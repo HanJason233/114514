@@ -1,5 +1,5 @@
-hy2://MSKE%2BuqQmEw8P2T3hxiIOw%3D%3D@3.144.23.16:13343?security=tls&obfs=salamander&obfs-password=Oonba4H5ruDo&sni=k1.wqxyxurkt.xyz&down=3#直连纯净节点
-hy2://XOS%2BCLsDa7DP2jdPDw0UrQ%3D%3D@44.255.184.183:13350?security=tls&obfs=salamander&obfs-password=eEjNIa91JYVO&sni=k3.wqxyxurkt.xyz&down=3#直连纯净节点
+hy2://BwyuaW5ybU4K2WlUJq6F7Q%3D%3D@3.96.221.214:13336?security=tls&obfs=salamander&obfs-password=YlJcOMd2rnye&sni=k1.wqxyxurkt.xyz&down=3#直连纯净节点
+hy2://MSKE%2BuqQmEw8P2T3hxiIOw%3D%3D@3.144.23.16:13342?security=tls&obfs=salamander&obfs-password=Oonba4H5ruDo&sni=k1.wqxyxurkt.xyz&down=3#直连纯净节点
 hy2://eXOP4wTlpxfyb9x1RBbxvg%3D%3D@44.247.72.24:13348?security=tls&obfs=salamander&obfs-password=VLn37nW2uyUh&sni=k2.wqxyxurkt.xyz&down=3#直连纯净节点
 hy2://wFmO56jFZJcDnIbOMPOgsg%3D%3D@34.213.161.117:13349?security=tls&obfs=salamander&obfs-password=vE94tOspn5Of&sni=k3.wqxyxurkt.xyz&down=3#直连纯净节点
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImZyMWEiLA0KICAiYWRkIjogImZyMWEtMjAyNjAxMjguMTg4MzgwMDUueHl6IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYzk3Y2Y0NmUtMTU1NC0zNmNiLThiMzYtYzM1NTZiODgzZGM0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJodHRwdXBncmFkZSIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvd2luZG93czExIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCINCn0=#直连纯净节点
